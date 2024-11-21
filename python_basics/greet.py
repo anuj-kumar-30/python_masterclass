@@ -3,3 +3,6 @@ def hello():
 
 def _bye():
     print('Goodbye, thanks for visiting')
+
+def add(a,b):
+	return a+b
